@@ -3,7 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      DEPLOY.NEXTJS
+      DEPLOY.NEXTJS after changepu
     </div>
   )
 }
